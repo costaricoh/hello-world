@@ -2,4 +2,4 @@
 
 Hi
 
-I woould like to learn Swift and create projects
+I would like to learn Swift and create projects
